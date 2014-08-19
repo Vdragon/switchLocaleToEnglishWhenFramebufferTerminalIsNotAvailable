@@ -1,3 +1,4 @@
+# Great resource on locale environment variables: texinfo document of gettext, chapter 2.3.x
 # Enable shell debugging
 set -x
 
