@@ -1,5 +1,5 @@
 # Enable shell debugging
-set +x
+set -x
 
 # Change software language that supports LC_MESSAGES locale
 # LC_MESSAGES=en_US.UTF-8
@@ -16,5 +16,5 @@ LANG=en_US
 export LANG
 
 # Disable shell debugging
-set -x
+set +x
 
