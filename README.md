@@ -7,6 +7,8 @@ This is a script that aimed to automatically switch locale to English when a fra
 GNU Public License 3 or any other future revisions
 
 ## 檔案與目錄說明<br />File and directory description
+* Source_code/
+	* Source_code of this project
 * Executables/
 	* Executables of this project.
 * Tools/
